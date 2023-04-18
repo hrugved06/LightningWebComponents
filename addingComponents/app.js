@@ -1,5 +1,5 @@
 import { LightningElement } from 'lwc';
-export default class App extends LightningElement {
+export default class MyComponent extends LightningElement {
    name = 'Electra X4';
    description = 'A sweet bike built for comfort.';
    category = 'Mountain';
